@@ -1,13 +1,22 @@
-# Classic Traveller Character Generator #
+# Cepheus Engine Character Generator #
 
-This JavaScript character generator for the classic Traveller sci-fi roleplaying game follows the character creation rules in The Traveller Book ([available in PDF](https://www.rpgnow.com/product/80192/CTTTBThe-Traveller-Book)).
+This JavaScript character generator for the Cepheus Engine sci-fi roleplaying game follows the character creation rules found here ([available in PDF](https://www.drivethrurpg.com/product/186894/Cepheus-Engine-System-Reference-Document )).
 
-Yes, characters _can_ die during character creation!
+~~Yes, characters _can_ die during character creation!~~
 
-[Play with it now.](https://devilghost.com/software/travellercharacter/)
+How to use this: 
+1. Download this in either your phone, tablet, or desktop
+2. On the([main page](https://github.com/justinaquino/travellercharactergenerator/tree/cepheus-engine-character-generator)).
+3. Go to the green button of Code, 
+4. choose Download zip,
+5. unzip 
+6. open folder and look for Index.html
+7. open index,html in a browser of choice
+8. Make a Bookmark for easy access (or save to home screen on device)
 
 (Reload the page to generate another character.)
 
+This is a branch of Pgorman's ([traverllercharactergenerator](https://github.com/pgorman/travellercharactergenerator))
 Thanks to a contribution from Frank Filz, a [verbose mode](https://devilghost.com/software/travellercharacter/index.html?history=verbose) adds behind-the-scenes character creation details.
 
 ## License (2-Clause BSD License) ##
